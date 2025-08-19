@@ -124,8 +124,8 @@ If you use this repo in your research or project:
 ```bibtex
 @software{asl_alphabet_classifier_2023,
   title        = {Sign Language Alphabet Classifier (ASL A–Z)},
-  author       = {<Your Name>},
+  author       = {lalkrishna},
   year         = {2023},
-  url          = {https://github.com/<your-username>/sign-language}
+  url          = {https://github.com/lalkrishna70135/sign-language}
 }
 ```
