@@ -37,7 +37,7 @@
 
 ### 1) Clone the repo
 ```bash
-git clone https://github.com/<your-username>/sign-language.git
+git clone https://github.com/lalkrishna70135/sign-language.git
 cd sign-language
 ```
 
@@ -93,37 +93,12 @@ matplotlib
 
 ---
 
-## 🗺️ Roadmap
-- [ ] Improve generalization with more augmentation.  
-- [ ] Expand to words/sequences (RNN/Transformer for temporal modeling).  
-- [ ] Convert model to **TF Lite** for mobile/edge deployment.  
-- [ ] Add GUI (e.g., Streamlit/Tkinter).  
 
----
 
-## 🤝 Contributing
-Contributions are welcome!  
-- Fork the repo and make your changes.  
-- Open a pull request with a clear description of improvements.  
+https://github.com/user-attachments/assets/6cca6236-04f0-4cac-9ab2-6af62574843f
 
----
 
-## 📜 License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.  
 
----
-
-## 🙏 Acknowledgments
-- TensorFlow & OpenCV communities.  
-- Public ASL datasets used for training.  
-
----
-
-## 🔖 Citation
-If you use this repo in your research or project:  
-```bibtex
-@software{asl_alphabet_classifier_2023,
-  title        = {Sign Language Alphabet Classifier (ASL A–Z)},
   author       = {lalkrishna},
   year         = {2023},
   url          = {https://github.com/lalkrishna70135/sign-language}
